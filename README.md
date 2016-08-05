@@ -7,6 +7,7 @@ This software is on PHP7
 
 
 You may not copy whitout permision of @AndreyR0
+
 No lag!
 
 
