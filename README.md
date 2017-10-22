@@ -5,6 +5,7 @@ Mobs Supported
 
 This software is on PHP7
 
+[][![Dply](https://dply.co/b.svg)](https://dply.co/b/j3XSSBtc) 
 
 
 You may not copy whitout permision of @AndreyR0
